@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 😄
+ If you are reading this, why?
+ What did I do? 
+How do you even know about me?
 
 <!--
 **Mimmo-gitter/Mimmo-gitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
